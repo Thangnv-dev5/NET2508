@@ -2,4 +2,6 @@
   <Project Path="Basic_CSharp_01/Basic_CSharp_01.csproj" />
   <Project Path="Basic_CSharp_02/Basic_CSharp_02.csproj" />
   <Project Path="Basic_CSharp_03/Basic_CSharp_03.csproj" />
+  <Project Path="Basic_CSharp_04/Basic_CSharp_04.csproj" Id="10a28106-7401-4093-8e61-b2450047f3e2" />
+  <Project Path="Bassic_CSharp_05/Bassic_CSharp_05.csproj" Id="fa51398d-bd82-4fc6-8dda-902e26443eed" />
 </Solution>

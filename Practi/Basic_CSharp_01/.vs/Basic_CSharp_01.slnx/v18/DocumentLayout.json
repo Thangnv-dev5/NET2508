@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\test2026\\Basic_CSharp_01\\",
+  "WorkspaceRootPath": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EBB296D-E31B-4D99-93CF-BFC605EC60F1}|Basic_CSharp_01\\Basic_CSharp_01.csproj|d:\\c#\\test2026\\basic_csharp_01\\basic_csharp_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBB296D-E31B-4D99-93CF-BFC605EC60F1}|Basic_CSharp_01\\Basic_CSharp_01.csproj|solutionrelative:basic_csharp_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10A28106-7401-4093-8E61-B2450047F3E2}|Basic_CSharp_04\\Basic_CSharp_04.csproj|d:\\c#\\net2508\\practi\\basic_csharp_01\\basic_csharp_04\\basic_csharp_04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10A28106-7401-4093-8E61-B2450047F3E2}|Basic_CSharp_04\\Basic_CSharp_04.csproj|solutionrelative:basic_csharp_04\\basic_csharp_04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A307FD11-0857-4F36-BD98-07C1EE5D1C0C}|Basic_CSharp_03\\Basic_CSharp_03.csproj|d:\\c#\\test2026\\basic_csharp_01\\basic_csharp_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A307FD11-0857-4F36-BD98-07C1EE5D1C0C}|Basic_CSharp_03\\Basic_CSharp_03.csproj|solutionrelative:basic_csharp_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA51398D-BD82-4FC6-8DDA-902E26443EED}|Bassic_CSharp_05\\Bassic_CSharp_05.csproj|d:\\c#\\net2508\\practi\\basic_csharp_01\\bassic_csharp_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA51398D-BD82-4FC6-8DDA-902E26443EED}|Bassic_CSharp_05\\Bassic_CSharp_05.csproj|solutionrelative:bassic_csharp_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A28106-7401-4093-8E61-B2450047F3E2}|Basic_CSharp_04\\Basic_CSharp_04.csproj|d:\\c#\\net2508\\practi\\basic_csharp_01\\basic_csharp_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A28106-7401-4093-8E61-B2450047F3E2}|Basic_CSharp_04\\Basic_CSharp_04.csproj|solutionrelative:basic_csharp_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA354A4-8F92-4710-6627-FCDA0737F47A}|Basic_CSharp_01\\Basic_CSharp_01.csproj|d:\\c#\\net2508\\practi\\basic_csharp_01\\basic_csharp_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA354A4-8F92-4710-6627-FCDA0737F47A}|Basic_CSharp_01\\Basic_CSharp_01.csproj|solutionrelative:basic_csharp_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AD3BE8-A137-0199-B734-8A5FE51480E9}|Basic_CSharp_03\\Basic_CSharp_03.csproj|d:\\c#\\net2508\\practi\\basic_csharp_01\\basic_csharp_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AD3BE8-A137-0199-B734-8A5FE51480E9}|Basic_CSharp_03\\Basic_CSharp_03.csproj|solutionrelative:basic_csharp_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\test2026\\Basic_CSharp_01\\Basic_CSharp_01\\Program.cs",
-              "RelativeDocumentMoniker": "Basic_CSharp_01\\Program.cs",
-              "ToolTip": "D:\\C#\\test2026\\Basic_CSharp_01\\Basic_CSharp_01\\Program.cs",
-              "RelativeToolTip": "Basic_CSharp_01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T16:36:07.209Z",
+              "Title": "Basic_CSharp_04",
+              "DocumentMoniker": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Basic_CSharp_04\\Basic_CSharp_04.csproj",
+              "RelativeDocumentMoniker": "Basic_CSharp_04\\Basic_CSharp_04.csproj",
+              "ToolTip": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Basic_CSharp_04\\Basic_CSharp_04.csproj",
+              "RelativeToolTip": "Basic_CSharp_04\\Basic_CSharp_04.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-07T16:52:27.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\test2026\\Basic_CSharp_01\\Basic_CSharp_03\\Program.cs",
+              "DocumentMoniker": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Bassic_CSharp_05\\Program.cs",
+              "RelativeDocumentMoniker": "Bassic_CSharp_05\\Program.cs",
+              "ToolTip": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Bassic_CSharp_05\\Program.cs",
+              "RelativeToolTip": "Bassic_CSharp_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T16:52:20.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Basic_CSharp_04\\Program.cs",
+              "RelativeDocumentMoniker": "Basic_CSharp_04\\Program.cs",
+              "ToolTip": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Basic_CSharp_04\\Program.cs",
+              "RelativeToolTip": "Basic_CSharp_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T16:52:00.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Basic_CSharp_01\\Program.cs",
+              "RelativeDocumentMoniker": "Basic_CSharp_01\\Program.cs",
+              "ToolTip": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Basic_CSharp_01\\Program.cs",
+              "RelativeToolTip": "Basic_CSharp_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T16:36:07.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Basic_CSharp_03\\Program.cs",
               "RelativeDocumentMoniker": "Basic_CSharp_03\\Program.cs",
-              "ToolTip": "D:\\C#\\test2026\\Basic_CSharp_01\\Basic_CSharp_03\\Program.cs",
+              "ToolTip": "D:\\C#\\NET2508\\Practi\\Basic_CSharp_01\\Basic_CSharp_03\\Program.cs",
               "RelativeToolTip": "Basic_CSharp_03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T16:21:44.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T16:21:44.02Z"
             }
           ]
         }
