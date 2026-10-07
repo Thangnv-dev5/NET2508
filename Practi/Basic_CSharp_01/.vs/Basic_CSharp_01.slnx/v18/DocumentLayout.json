@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\test2026\\Basic_CSharp_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBB296D-E31B-4D99-93CF-BFC605EC60F1}|Basic_CSharp_01\\Basic_CSharp_01.csproj|d:\\c#\\test2026\\basic_csharp_01\\basic_csharp_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBB296D-E31B-4D99-93CF-BFC605EC60F1}|Basic_CSharp_01\\Basic_CSharp_01.csproj|solutionrelative:basic_csharp_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A307FD11-0857-4F36-BD98-07C1EE5D1C0C}|Basic_CSharp_03\\Basic_CSharp_03.csproj|d:\\c#\\test2026\\basic_csharp_01\\basic_csharp_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A307FD11-0857-4F36-BD98-07C1EE5D1C0C}|Basic_CSharp_03\\Basic_CSharp_03.csproj|solutionrelative:basic_csharp_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\test2026\\Basic_CSharp_01\\Basic_CSharp_01\\Program.cs",
+              "RelativeDocumentMoniker": "Basic_CSharp_01\\Program.cs",
+              "ToolTip": "D:\\C#\\test2026\\Basic_CSharp_01\\Basic_CSharp_01\\Program.cs",
+              "RelativeToolTip": "Basic_CSharp_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T16:36:07.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\test2026\\Basic_CSharp_01\\Basic_CSharp_03\\Program.cs",
+              "RelativeDocumentMoniker": "Basic_CSharp_03\\Program.cs",
+              "ToolTip": "D:\\C#\\test2026\\Basic_CSharp_01\\Basic_CSharp_03\\Program.cs",
+              "RelativeToolTip": "Basic_CSharp_03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T16:21:44.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

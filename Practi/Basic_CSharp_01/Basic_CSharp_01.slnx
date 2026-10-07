@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Basic_CSharp_01/Basic_CSharp_01.csproj" />
+  <Project Path="Basic_CSharp_02/Basic_CSharp_02.csproj" />
+  <Project Path="Basic_CSharp_03/Basic_CSharp_03.csproj" />
+</Solution>

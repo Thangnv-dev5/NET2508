@@ -1,0 +1,15 @@
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\Basic_CSharp_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\Basic_CSharp_01.AssemblyInfoInputs.cache
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\Basic_CSharp_01.AssemblyInfo.cs
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\Basic_CSharp_01.csproj.CoreCompileInputs.cache
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\bin\Debug\net10.0\Basic_CSharp_01.exe
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\bin\Debug\net10.0\Basic_CSharp_01.deps.json
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\bin\Debug\net10.0\Basic_CSharp_01.runtimeconfig.json
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\bin\Debug\net10.0\Basic_CSharp_01.dll
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\bin\Debug\net10.0\Basic_CSharp_01.pdb
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\Basic_CSharp_01.dll
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\refint\Basic_CSharp_01.dll
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\Basic_CSharp_01.pdb
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\Basic_CSharp_01.genruntimeconfig.cache
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\ref\Basic_CSharp_01.dll
+D:\C#\test2026\Basic_CSharp_01\Basic_CSharp_01\obj\Debug\net10.0\Basic_CS.5D067297.Up2Date
