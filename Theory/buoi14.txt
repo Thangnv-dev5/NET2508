@@ -1,0 +1,29 @@
+buổi 14
+
+cách tạo DB: chuột phải vào mục database-->New Database--> đặt tên databasse--> Create
+Cách tạo table: Chọn vào db muốn tạo table--> trỏ vào mục table--> chuột phải--> new--> table
+Cách thêm trường cho bảng:
+	Ví dụ: 
+		column Name : Id
+		Data Type: int
+		Allow Nulls: tích chọn
+Cách setting khóa chính: chọn trường muốn setting: chuột phải--> primary key
+cách để khóa chính tự auto tăng khi thêm data: chọn vào khóa chính--> nhìn xuống mục column properties--> Identity Specification --> nhìn xuống dòng (Is Identity) chuyển chế độ sang Yes
++ tên các trường phải in hoa chữ cái đầu tiên 
++ nchar: ký tự
++ nvarchar: dạng chuỗi
+: Số điện thoại không nên dùng dạng INT vì sau này có thể cần viết số 0 hoặc +84 ở trước
+
+cách khai báo giá trị mặc định cho một trường
+ví dụ: 
+	trường: Status
+	column Properties --> Default Value or Binding: 1 // tức là gái trị mặc định bằng 1
+	urd: tài liệu xác định yêu cầu người dùng
+
+khóa chính là trường dữ liệu giúp phân biệt các bản ghi trong một bảng
+
+các mối quan hệ giữa các bảng: 11, 1 nhiều, nhiều nhiều.
+	// 11 là mối quan hệ gần như không có vì mối quan hệ như vaayj thường tồn tại trong 1 bảng
+	ví dụ 1 người chỉ có duy nhất 1 số căn cước, vậy để không phúc tập tạo nhiều bảng sẽ dùng 1 bảng với 2 cốt gồm cột căn cuóc và cột tên
+
+cách set khóa ngoại

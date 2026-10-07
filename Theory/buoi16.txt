@@ -1,0 +1,46 @@
+buoi16 
++ cách export csdl
+	chuột phải vào csdl muốn export--> task --> generate script...
+		ở mục introduction chọn next -> chọn select specific dâtvase object--> tích chọn Tables--> hiện nut next--> ấn next--> chọn Save as script file --> chọn thư mục muốn lưu ở mục "file name"
+		Sau khi hoàn thành bước trên thì chọn next cho đến khi hiện nút finish
++ Không nên select *, cần thông tin trường nào thì lấy đủ thông tin trường đấy ra
+* Sự dụng từ khóa Like
+	Vi dụ: select * from [Posts] where [Title] like '%OOP';
+	--> %OOP sẽ tìm những tiêu đề bài viết kết thúc bàng từ khóa OOP
+	--> OOP% sẽ tìm những tiêu đề bài viết bắt đầu bằng từ khóa OOP
+	--> %OOP% sẽ tìm những tiêu đề thỏa mãn OOP ở đầu HOẶC cuối tiêu đề đều được
+
+sap sep du lieu(sort): sap sep danh sach nguoi dung theo thoi gian tao moi nhat
+	vi du: select * from [Users] order by [CreatedAt] desc;
+		+ desc: sap sep giam dan
+		+ asc hoac khong viet gi: sap sep tang dan
+		
++ count(): ham dung de dem du lieu
+	vi du: select COUNT(PostId) as TotalPosts from [Posts];
+	
+	
+--10 lay ra chi 02 bai viet moi nhat
+Select top 2 [Title], [ContentPost] from [Posts] order by [CreatedAt] desc;
+
+- Join: lấy phần tử chung của hai tập hợp
+- Left join: Lấy tất cả phần tử của tập hợp bên trái và những phần tử chung của hai tập hợp
+ ví dụ:  tập hợp A: 1, 2, 3
+		Tập hợp B: 3,5, 4
+	left join sẽ lấy  cá phần tử 1, 2 và 3
+- right join: tương tự như left join
+	--> lấy phần tử 3, 5, 4
+
+- GROUP BY là một mệnh đề trong SQL dùng để nhóm các hàng dữ liệu theo một hoặc nhiều cột, thường kết hợp với các hàm tổng hợp (aggregate functions: count(), sum(), min(), max(), avg()...).
+	+ Dùng HAVING để lọc kết quả sau khi nhóm (khác với WHERE lọc trước khi nhóm)
+	
+	ví dụ: SELECT CustomerID, SUM(Amount) as TotalAmount
+			FROM Orders
+			GROUP BY CustomerID
+			HAVING SUM(Amount) > 1500;  -- Chỉ lấy khách hàng có tổng > 1500
+			
+Sub query (truy vấn ánh xạ lồng)
+
+
+đang học đến 1:47:27
+
+

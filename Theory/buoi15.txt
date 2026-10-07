@@ -1,0 +1,16 @@
+buoi 15
+unique: khog duoc trung lap, 
+identity: tu dong tag gia tri
+primary key: khoa chinh
+not null: khong duoc de trong
+getdate(): ham lay thoi gian hien tai
+
+slug la duong link than thien -. tot cho seo web
+luy khi khong nen dat ten truong trung voi tu khoa sql
+vi du status --> sai 9vif trungf vowis tuw khoa sql
+	--> neen dodoir laij 
+	
+	
+viét câu lệnh insert into, khi viết tên bảng thì thêm [] để phân biệt tên bảng với các từ khóa trong câu lệnh sql để tránh bị phân biệt nhầm.
+
+	

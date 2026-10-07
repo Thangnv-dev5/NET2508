@@ -1,0 +1,52 @@
+loop
+	+ while
+	+ do... While
+	+ câu lệnh break dùng để thoát vòng lặp.
+	+ continue là từ khóa tiếp tục quay lại vòng lặp đấy
+	+ go to, như là một bước nhảy cóc( bỏ qua một vài statement) trong vòng lặp--> hạn chế dùng và gần như không dùng.
+function
+	tập hợp các câu lệnh dùng để thực hiện một tác vụ cụ thể
+	mục đích để dễ xử lý kiểm soát debug
+	có 2 loại:
+		+ tự build
+			--> hàm không tham số, không return
+			--> Hàm có tham số, không return
+			--> Hàm không tham số, có return
+			--> Hàm có tham số, có return
+		+ có sẵn(import và gọi hàm)
+	Quy tắc đặt têm hàm: tất cả chữ cái đầu tiên phải viết hoa
+	void--> không có kiểu dữ liệu trả về
+	Function overloading 
+		-->là các hàm có cùng tên trong cùng một class, nhưng khác nhau về số lượng, kiểu dữ liệu hoặc thứ tự của các tham số
+		--> dùng trong khái niệm lập trình hướng đối tượng
+		
+	* Từ khóa Ref và out trong function 
+	Giống
+		+ ref và out đều dùng để truyền tham chiếu, không tạo ra bản sao của biến. thay vào đó, chúng trỏ thẳng vào ô nhớ của biến gốc, mọi thay đổi cảu hàm sẽ làm thay đổi giá trị của biến bên ngoài
+		+ phải viết từ khóa ref và out ở cả định nghĩa hàm và lúc gọi hàm
+		+ không thể tạo hai hàm trùng tên(function overloading) mà chỉ khác nhau mỗi việc hàm dùng ref, hàm dùng out.
+	Khác:
+		+ ref để thay đổi giá trị của biến theo logic hàm
+		+ out mục đich là để gán và lấy giá trị của biến ra ngoài hàm
+	
+Xử lý ngoại lệ trong csharp(xử lý lỗi)
+	Các loại lỗi trong csharp
+		+ Lỗi biên dịch
+		+ Lỗi thời gian chạy
+			--> Các lỗi này xảy ra tại thơi điểm thực thi
+			--> việc xử lý cung cấp thành thông báo dễ hiểu cho người dùng cuối và ngăn chặn việc kết thúc bất thường của chương trình 
+		Công dụng:
+			1. Ngăn chặn chấm dứt được sự bất thường.
+			2. Hiện thị thông báo lỗi thân thiện với người dùng
+			3. Kịp thời khắc phục khi phát hiện lỗi
+	
+	Cú pháp:
+	 try (đi vào các điều kiện lý tưởng) catch (chui vào điều kiện lỗi)
+	 trong trường hợp nhạy cảm  nghi ngờ các lỗi bất thường không xác định được thì phải dùng try catch để bắt lấy các lỗi đó 
+	 lỗi này có thể do người dung ví dụ nhập lượng lớn bản ghi, học ghi kí hiệu đặc biệt
+	 
+	
+	
+	
+	
+	
